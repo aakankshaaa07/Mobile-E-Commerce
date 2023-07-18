@@ -25,3 +25,6 @@ The app displays all the products available, upon clicking on a product it opens
 3. Open the project in a web browser:
    http://localhost:3000
 
+   <img width="479" alt="image" src="https://github.com/aakankshaaa07/Mobile-E-Commerce/assets/55917789/0501fee1-78d0-4502-b209-cad70057c149">
+
+

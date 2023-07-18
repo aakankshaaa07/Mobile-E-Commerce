@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/shirt1.png",
+    "name": "Textured Cotton Shirt",
+    "price": 1790,
+    "description": "Relaxed-fit shirt made of irregular weave cotton. Lapel collar and short sleeves. Button-up front.",
+    "rating": 4.5,
+    "total": 27
+  },
+  {
+    "id": 2,
+    "image": "/assets/shirt2.png",
+    "name": "Abstract Print Shirt",
+    "price": 2700,
+    "description": "Regular fit shirt made of a cotton fabric. Camp collar. Short sleeves. Button-up front.",
+    "rating": 4.7,
+    "total": 44
+  },
+  {
+    "id": 3,
+    "image": "/assets/shirt3.png",
+    "name": "Stretch Shirt",
+    "price": 1590,
+    "description": "Slim-fit shirt made of highly stretchy, crease-resistant fabric. Lapel collar and short sleeves. Button-up front.",
+    "rating": 4.2,
+    "total": 15
+  },
+  {
+    "id": 4,
+    "image": "/assets/shirt4.png",
+    "name": "Geometric Jacquard Shirt",
+    "price": 1800,
+    "description": "Relaxed fit shirt. Spread collar and short sleeves. Side vents at hem. Front button closure.",
+    "rating": 4.4,
+    "total": 39
+  },
+  {
+    "id": 5,
+    "image": "/assets/shirt5.png",
+    "name": "Pixelated Printed Shirt",
+    "price": 2250,
+    "description": "Relaxed fit shirt made of viscose. Italian collar and short sleeves. Chest patch pocket. Front button closure.",
+    "rating": 4.1,
+    "total": 45
+  },
+  {
+    "id": 6,
+    "image": "/assets/shirt6.png",
+    "name": "Check Textured Weave Shirt Shirt",
+    "price": 1770,
+    "description": "Relaxed fit stretch cotton blend shirt. Italian collar and short sleeves. Front button closure.",
+    "rating": 4.9,
+    "total": 3
+  }
+]
